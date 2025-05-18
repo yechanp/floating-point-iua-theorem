@@ -11,6 +11,6 @@ This repository provides the implementation and verification of a proposed neura
 python interval.py -t sin -v 500 
 ```
 -v : verification steps. 
--t : target function (currently "square" for $f(x)=x^2$, "sin" for $f(x) = sin( 10 pi x ) /2$. 
+-t : target function (currently "square" for $f(x)=x^2$, "sin" for $f(x) = sin( 10 \pi x ) /2$. 
 
 
