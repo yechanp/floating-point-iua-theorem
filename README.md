@@ -14,6 +14,6 @@ python interval.py -t sin -v 500
 
 -v : verification steps. 
 
--t : target function ( "square" for $f(x)=x^2$, "sin" for $f(x) = \sin( 10 \pi x ) /2$. 
+-t : target function ( "square" for $f(x)=x^2$, "sin" for $f(x) = \sin( 10 \pi x ) /2$. )
 
 
