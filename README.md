@@ -1,4 +1,4 @@
-# Floating-Point Neural Networks Are\\Provably Robust Universal Approximators
+# Floating-Point Neural Networks Are Provably Robust Universal Approximators
 ## Geonho Hwang , Wonyeol Lee , Yeachan Park , Sejun Park , and Feras Saad
 
 ### abstract :
