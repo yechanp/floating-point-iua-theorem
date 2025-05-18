@@ -1,5 +1,5 @@
 # Floating-Point Neural Networks Are\\Provably Robust Universal Approximators
-## Geonho Hwang⋆ , Wonyeol Lee⋆ , Yeachan Park , Sejun Park , and Feras Saad
+## Geonho Hwang , Wonyeol Lee , Yeachan Park , Sejun Park , and Feras Saad
 
 ### abstract :
 The classical universal approximation (UA) theorem for neural networks establishes mild conditions under which a feedforward neural network can approximate a continuous function $f$ with arbitrary accuracy. A recent result establishes that neural networks also enjoy a more general interval universal approximation (IUA) theorem, in the sense that the abstract interpretation semantics of the network using the interval domain can approximate the direct image map of $f$ (i.e., the result of applying $f$ to a set of inputs) with arbitrary accuracy. These theorems, however, rest on the unrealistic assumption that the neural network computes over infinitely precise real numbers, whereas their software implementations in practice compute over finite-precision floating-point numbers. An open is whether the IUA theorem still holds in the floating-point setting. This paper introduces the first IUA theorem for floating-point neural networks that proves their remarkable ability to \textit{perfectly} capture the direct image map of any rounded target function $f$, showing no limits exist on their expressiveness. Our IUA theorem in the floating-point setting exhibits material differences from the real-valued setting, which reflects the fundamental distinctions between these two computational models. This theorem also implies surprising corollaries, which include (i) the existence of provably robust floating-point neural networks; and (ii) the computational completeness of the class of straight-line programs that use only floating-point additions and multiplications for the class of all floating-point programs that halt.
@@ -11,6 +11,6 @@ This repository provides the implementation and verification of a proposed neura
 python interval.py -t sin -v 500 
 ```
 -v : verification steps. 
--t : target function (currently "square" for $f(x)=x^2$, $sin$ for $f(x) = sin( 10 pi x ) /2$. 
+-t : target function (currently "square" for $f(x)=x^2$, "sin" for $f(x) = sin( 10 pi x ) /2$. 
 
 
