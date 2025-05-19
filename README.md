@@ -18,7 +18,7 @@ This paper introduces the first IUA theorem for floating-point neural networks t
 
 This repository provides the implementation and verification of a proposed neural network architecture designed to represent a given target function under interval analysis and floating-point arithmetic. The implementation assumes that both the domain and codomain are $[0,1]$, and it uses the float16 format. The network is constructed to represent the specified target function, and its correctness is verified through interval analysis by randomly selecting subintervals of $[0,1]$ for specified verification steps.
 
-## How to Run :
+## How to Run
 
 ```
 python interval.py -t sin -v 500 
