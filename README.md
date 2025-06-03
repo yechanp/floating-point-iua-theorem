@@ -6,7 +6,7 @@
   [Yeachan Park](https://yechanp.github.io/site/),
   [Sejun Park](https://sites.google.com/site/sejunparksite/),
   [Feras Saad](https://www.cs.cmu.edu/~fsaad/).
-- Paper PDFs:
+- Papers:
   [Full Version](http://doi.org/10.1184/R1/29127932),
   Conference Version.
 
