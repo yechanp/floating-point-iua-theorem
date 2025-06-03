@@ -1,11 +1,14 @@
-# Floating-Point Neural Networks Are Provably Robust Universal Approximators (CAV 2025)
+# Floating-Point Neural Networks Are Provably Robust Universal Approximators ([CAV 2025](https://conferences.i-cav.org/2025/))
 
-[Geonho Hwang](https://sites.google.com/snu.ac.kr/geonhohwang),
-[Wonyeol Lee](https://wonyeol.github.io/),
-[Yeachan Park](https://yechanp.github.io/site/),
-[Sejun Park](https://sites.google.com/site/sejunparksite/),
-[Feras Saad](https://www.cs.cmu.edu/~fsaad/)
-
+- Authors:
+  [Geonho Hwang](https://sites.google.com/snu.ac.kr/geonhohwang),
+  [Wonyeol Lee](https://wonyeol.github.io/),
+  [Yeachan Park](https://yechanp.github.io/site/),
+  [Sejun Park](https://sites.google.com/site/sejunparksite/),
+  [Feras Saad](https://www.cs.cmu.edu/~fsaad/).
+- Paper PDFs:
+  [Full Version](http://doi.org/10.1184/R1/29127932),
+  Conference Version.
 
 ## Paper Abstract 
 
