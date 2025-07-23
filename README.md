@@ -7,8 +7,8 @@
   [Sejun Park](https://sites.google.com/site/sejunparksite/),
   [Feras Saad](https://www.cs.cmu.edu/~fsaad/).
 - Papers:
-  [Full Version](http://doi.org/10.1184/R1/29127932),
-  Conference Version.
+  [Full Version](https://arxiv.org/abs/2506.16065),
+  [Conference Version](https://link.springer.com/chapter/10.1007/978-3-031-98679-6_14).
 
 ## Paper Abstract 
 
